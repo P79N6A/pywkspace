@@ -1,0 +1,11 @@
+[{
+  "name": "test",
+  "url": "http://testing.byted.org/api/case/get_cases_tango/?psm=toutiao.stream.stream&diff_type=thrift_validate",
+  "headers": {
+    "Content-Type": "application/json"
+  },
+  "post_data": "",
+  "case_script": "",
+  "method": "get",
+  "schema": {}
+}]
